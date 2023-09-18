@@ -22,7 +22,7 @@
 
 body{
 	color: var(--text-color);
-	background: var(--bg-color);
+	background: var(--second-bg-color);
 }
 header{
 	position: fixed;
